@@ -30,11 +30,6 @@ IL1.1, IL1.2 e IL1.3 de la pauta de evaluación.
 │        └── 
 ```
 
-Los archivos `index.html`, `login.html`, `registro.html` y `styles.css` son la
-base entregada del proyecto y no fueron modificados. `SNIPPETS-A-INTEGRAR.md`
-indica exactamente qué líneas agregar en esos archivos (etiquetas `<script>`,
-imágenes de productos y video embebido) para completar la pauta.
-
 ## Tecnologías utilizadas
 
 - HTML5 semántico (`header`, `nav`, `main`, `section`, `article`, `footer`)
@@ -90,7 +85,7 @@ imágenes de productos y video embebido) para completar la pauta.
 
 ### Control de versiones (IL1.3)
 
-Flujo de trabajo sugerido con Git:
+Flujo de trabajo de ejemplo con Git:
 
 1. `git init` en la raíz del proyecto.
 2. Commits regulares y descriptivos, por ejemplo:
